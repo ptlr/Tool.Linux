@@ -3,8 +3,8 @@
 
 ## 一、目录 
 
-* [profile][./profile] 常用配置文件
-* [scripts][./scripts] 常用脚本
-* [docs][./docs] 文档
-* [LICENSE](LICENSE) CC-BY-4.0开源协议
-* [README](README.md) 仓库说明
+* [profile](./profile) 常用配置文件
+* [scripts](./scripts) 常用脚本
+* [docs](./docs) 文档
+* [LICENSE](./LICENSE) CC-BY-4.0开源协议
+* [README](./README.md) 仓库说明
