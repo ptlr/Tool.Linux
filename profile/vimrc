@@ -1,0 +1,32 @@
+" 显示行号
+set number
+
+" 不与VI兼容
+set nocompatible
+
+" 语法高亮
+syntax on
+
+" 显示命令模式
+set showcmd
+
+" 支持鼠标
+set mouse=a
+
+" 使用UTF-8编码
+set encoding=utf-8
+
+" 自动缩进，跟上一行的缩进保持一直
+set autoindent
+
+" 按下tab显示的空格数
+set tabstop=4
+
+" 缩进的字符数
+set shiftwidth=4
+
+" 将TAB转换成空格
+set expandtab
+
+" 每个TAB装换成多少个空格
+set softtabstop=4
