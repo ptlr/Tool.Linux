@@ -22,10 +22,10 @@ main(){
     manger install "${install_package[*]}"
     # 清除无用软件和升级
     echo "3、清除和升级："
-    sudo apt autoremove -y
-    sudo apt autoclean
     sudo apt update
     sudo apt upgrade -y
+    sudo apt autoremove -y
+    sudo apt autoclean
 }
 
 main
